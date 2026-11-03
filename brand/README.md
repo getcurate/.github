@@ -1,7 +1,7 @@
 # Curate Technologies mark
 
 A C drawn in halftone dots, solid at its back and thinning toward both tips, with the piece that closes
-it cut out and slid straight out, given a soft rounded edge and highlight, the same treatment as the Reel Studio play button. The
+it cut out and slid straight out, given a shallow curve across its face, lit from the top left, with crisp flat edges. The C is vector; the piece is embedded in the SVG as a 2048 px render. The
 flat dots are the raw material; the lit piece is the one that got chosen. The C and the piece share one
 center and the same radii, and both cuts are the same width.
 
