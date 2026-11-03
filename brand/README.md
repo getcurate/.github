@@ -1,7 +1,7 @@
 # Curate Technologies mark
 
 A C drawn in halftone dots, solid at its back and thinning toward both tips, with the piece that closes
-it cut out and slid straight out, rendered in a vermilion-to-apricot gradient with light and depth. The
+it cut out and slid straight out, rendered as a solid vermilion-to-apricot slab with real depth on its outer edge. The
 flat dots are the raw material; the lit piece is the one that got chosen. The C and the piece share one
 center and the same radii, and both cuts are the same width.
 
