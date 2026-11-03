@@ -1,7 +1,7 @@
 # Curate Technologies mark
 
 A C drawn in halftone dots, solid at its back and thinning toward both tips, with the piece that closes
-it cut out and slid straight out, rendered as a solid vermilion-to-apricot slab with real depth on its outer edge. The
+it cut out and slid straight out, rendered as a smooth, rounded vermilion-to-apricot piece lit from the top left. The C is vector; the piece is embedded in the SVG as a 2048 px render. The
 flat dots are the raw material; the lit piece is the one that got chosen. The C and the piece share one
 center and the same radii, and both cuts are the same width.
 
