@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://github.com/getcurate/.github/raw/main/brand/curate-mark-ink-1024.png" width="112" alt="Curate Technologies logo: a halftone C with its missing piece pulled out in orange">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/getcurate/.github/raw/main/brand/curate-mark-ink-1024.png">
+    <img src="https://github.com/getcurate/.github/raw/main/brand/curate-mark-bone-1024.png" width="112" alt="Curate Technologies logo: a halftone C with its missing piece pulled out in orange">
+  </picture>
 </p>
 
 <h3 align="center">Curate Technologies</h3>
