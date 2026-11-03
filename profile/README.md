@@ -5,7 +5,7 @@
 <h3 align="center">Curate Technologies</h3>
 
 <p align="center">
-  We're <a href="https://github.com/SamGu-NRX">Sam</a> and <a href="https://github.com/AidenJohnston">Aiden</a>, two students who build tools for the tedious parts of being online. The code is open.
+  We're <a href="https://github.com/SamGu-NRX">Sam</a> and <a href="https://github.com/AidenJohnston">Aiden</a>, two students who build tools for the tedious parts of being online, and open-source them.
 </p>
 
 <br>
@@ -16,7 +16,7 @@ You film one messy take, retakes and fumbles included, and ReelStudio turns it i
 
 It's a desktop app for macOS (Apple silicon) and Windows 10/11. There's no account and no telemetry, so your videos stay on your computer.
 
-[Source code](https://github.com/AidenJohnston/reel-studio-app) · [Signed builds at getreelstudio.com](https://getreelstudio.com)
+[Source code (AGPL-3.0)](https://github.com/getcurate/reel-studio) · [Signed builds at getreelstudio.com](https://getreelstudio.com)
 
 <br>
 
