@@ -4,9 +4,7 @@
   </a>
 </p>
 
-**[Reel Studio](https://github.com/getcurate/reel-studio)** is an all-in-one content creation platform for making short-form video and growing your audience with it, at scale. Turn a raw talking-head video into polished shorts, edit them in a fast desktop app, and share them across all your socials. The agents doing the work run on your own computer, and you stay in control of them.
-
-Works with your Claude Code or Codex subscription.
+**[Reel Studio](https://github.com/getcurate/reel-studio)** is an all-in-one content creation platform for making short-form video and growing your audience with it, at scale. Turn a raw talking-head video into polished shorts, edit them in a best-in-class desktop app, and share them across all your socials. Use your existing Claude Code or Codex subscription.
 
 Open source under AGPL-3.0. Signed builds at [getreelstudio.com](https://getreelstudio.com).
 
