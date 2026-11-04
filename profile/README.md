@@ -4,7 +4,9 @@
   </a>
 </p>
 
-**[Reel Studio](https://github.com/getcurate/reel-studio)** turns a raw talking-head video into a finished short with your best takes, captions, music, b-roll and a cover. Type a note in plain English, like "music too loud at the start", and get a new version. It runs on your computer, on your own Claude or ChatGPT plan.
+**[Reel Studio](https://github.com/getcurate/reel-studio)** is an all-in-one content creation platform for making short-form video and growing your audience with it, at scale. Turn a raw talking-head video into polished shorts, edit them in a fast desktop app, and share them across all your socials. The agents doing the work run on your own computer, and you stay in control of them.
+
+Works with your Claude Code or Codex subscription.
 
 Open source under AGPL-3.0. Signed builds at [getreelstudio.com](https://getreelstudio.com).
 
